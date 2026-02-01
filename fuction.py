@@ -1,4 +1,6 @@
-def average(numbers):
-    if not number:
-        return 0
-    return sum(numbers) / len(numbers)
+def add(num1, num2):
+    return num1+num2
+
+def subtract(num1, num2):
+    return num1-num2
+
