@@ -1,3 +1,4 @@
-x = 5
-y = 8
-z = 7
+def average(numbers):
+    if not number:
+        return 0
+    return sum(numbers) / len(numbers)
